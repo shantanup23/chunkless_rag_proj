@@ -1,0 +1,55 @@
+.App {
+  font-family: system-ui, -apple-system, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.App-header {
+  border-bottom: 2px solid #eee;
+  margin-bottom: 24px;
+}
+
+.error {
+  color: red;
+  margin-top: 8px;
+}
+
+.error-box {
+  border: 1px solid red;
+  background-color: #fff0f0;
+  padding: 16px;
+  border-radius: 4px;
+  margin-top: 24px;
+}
+
+.success-banner {
+  background-color: #e6ffed;
+  color: #22863a;
+  padding: 12px;
+  border-radius: 4px;
+  margin-bottom: 24px;
+  border: 1px solid #c3e6cb;
+}
+
+.question-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  background-color: #fafafa;
+}
+
+details {
+  margin-top: 12px;
+  padding: 8px;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  color: #0066cc;
+}
